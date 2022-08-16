@@ -1,0 +1,16 @@
+{
+    "domain": "package_concierge",
+    "name": "Package Concierge",
+    "documentation": "https://github.com/corbanmailloux/package-concierge-hass",
+    "issue_tracker": "https://github.com/corbanmailloux/package-concierge-hass/issues",
+    "requirements": [
+        "requests",
+        "beautifulsoup4"
+    ],
+    "dependencies": [],
+    "codeowners": [
+        "@corbanmailloux"
+    ],
+    "iot_class": "cloud_polling",
+    "version": "1.1.0"
+}
