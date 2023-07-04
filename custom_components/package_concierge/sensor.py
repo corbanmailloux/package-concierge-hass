@@ -95,7 +95,7 @@ class PackageConciergeScraper:
     def update(self):
         _LOGGER.debug(f"Package Concierge running update for: {self._username}")
 
-        login_url = "https://packageconciergeadmin.com/Login.aspx"
+        login_url = "https://packageconciergeadmin.com/Community/CommunityDashboard.aspx"
 
         # Create a persistent session for cookies.
         session = requests.Session()
