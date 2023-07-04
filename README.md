@@ -1,4 +1,9 @@
+WARNING WARNING WARNING WARNING WARNING WARNING 
+
 This component is no longer maintained by @corbanmailloux and still doesn't seem to completely work even after this commit.
+
+WARNING WARNING WARNING WARNING WARNING WARNING 
+
 
 # Package Concierge Scraper Component for Home Assistant
 
