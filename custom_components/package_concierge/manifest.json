@@ -3,6 +3,7 @@
     "name": "Package Concierge",
     "documentation": "https://github.com/corbanmailloux/package-concierge-hass",
     "issue_tracker": "https://github.com/corbanmailloux/package-concierge-hass/issues",
+    "loggers": ["custom_components.package_concierge"],
     "requirements": [
         "requests",
         "beautifulsoup4"

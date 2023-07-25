@@ -1,5 +1,7 @@
 # Package Concierge Scraper Component for Home Assistant
 
+**This component is not currently maintained**
+
 Home Assistant custom component for [Package Concierge](https://packageconciergeadmin.com) that can login and get a count (maximum 5) of packages waiting to be picked up from the Package Concierge package locker system.
 It also supports multiple users by registering multiple sensors.
 
